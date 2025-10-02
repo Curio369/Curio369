@@ -1,7 +1,7 @@
 - I’m Curio
+- currently pursuing Btech from IIT Mandi
+- learning python with Angela Yu's 100 days of python 
+
 --------------
 
-I am currently pursuing Btech from IIT Mandi
-=============================================
-Also currently following Angla Yu's 100 Days of Python
-==============================
+
