@@ -5,17 +5,16 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Curio369&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CurioX&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Curio369&layout=compact&theme=radical)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 
-![Snake animation](https://github.com/CurioX/CurioX/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Curio369/Curio369/blob/output/github-contribution-grid-snake.svg)
 
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CurioX)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Curio369)
 
 
 
