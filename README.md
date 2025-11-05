@@ -5,7 +5,7 @@
 
 <!-- Coding GIF -->
 <p align="center">
-  <img alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTY2YjZueXhzNmdqbGZ6dHQ2ZXc0cGlsdWF5cmN6OGNqcmJ3YWJqaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11Zj50WZvBqCTS/giphy.gif">
+  <img alt="Coding" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTY2YjZueXhzNmdqbGZ6dHQ2ZXc0cGlsdWF5cmN6OGNqcmJ3YWJqaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11Zj50WZvBqCTS/giphy.gif">
 </p>
 
 <!-- GitHub Stats -->
