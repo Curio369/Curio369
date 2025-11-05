@@ -1,11 +1,15 @@
-- I’m Curio
-- currently pursuing Btech from IIT Mandi
-- learning python with Angela Yu's 100 days of python
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79A3E&width=435&lines=Hey%2C+I'm+Curio!;BTech+Student+at+IIT+Mandi;Python+%7C+C%2B%2B+%7C+Robotics+Enthusiast;Learning+100+Days+of+Python+From+Angla+Yu's+Coruse)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+![Snake animation](https://github.com/Curio369/Curio369/blob/output/github-contribution-grid-snake.svg)
 
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/Curio369?v=4" width="120" style="border-radius:50%;" />
-</p>
+
+
+
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Curio369&show_icons=true&theme=radical)
 
