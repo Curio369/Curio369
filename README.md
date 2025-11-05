@@ -3,7 +3,12 @@
 - learning python with Angela Yu's 100 days of python
 
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/Curio369?v=4" width="120" style="border-radius:50%;" />
+</p>
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Curio369&show_icons=true&theme=radical)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Curio369&layout=compact&theme=radical)
 
