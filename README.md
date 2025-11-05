@@ -15,7 +15,8 @@
 ![Snake animation](https://github.com/Curio369/Curio369/blob/output/github-contribution-grid-snake.svg)
 
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Curio369)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Curio369)
+
 
 
 
