@@ -9,6 +9,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-FFD700)
 
 
 ![Snake animation](https://github.com/Curio369/Curio369/blob/output/github-contribution-grid-snake.svg)
