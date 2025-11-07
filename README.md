@@ -5,7 +5,7 @@
 
 <!-- Coding GIF -->
 <p align="center">
-  <img alt="Coding" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTY2YjZueXhzNmdqbGZ6dHQ2ZXc0cGlsdWF5cmN6OGNqcmJ3YWJqaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11Zj50WZvBqCTS/giphy.gif">
+  <img alt="Shelby" width="360" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWMyZnpqajBiMmY1a29kb2sybGkwb2tiZzhnc2ViN3Q1bWZ5MHY1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gKfyiiss9Aghq1eImS/giphy.gif">
 </p>
 
 <!-- GitHub Stats -->
