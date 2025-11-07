@@ -31,8 +31,6 @@
 </p>
 
 <!-- Wakatime Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Curio369" alt="Wakatime stats" />
-</p>
+
 
 <hr style="border: 1px solid #444; width: 80%; margin: auto;">
