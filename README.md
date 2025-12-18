@@ -59,10 +59,10 @@
 
 ---
 
-## 🧭 2025 Learning Roadmap
+## 🧭 2026 Learning Roadmap
 
 - [x] 10 Days Of Code
-- [ ] 25 Days of Code
+- [x] 20 Days of Code
 - [ ] 50 Days of Code  
 - [x] DFS Algorithm
 - [x] BFS Algorithm
