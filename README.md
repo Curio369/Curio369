@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Curio!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=I'm+From+IIT+Mandi.;Currently+learning+Python+from+Angela+Yu!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=I'm+From+IIT+Mandi.;Trying+to+be+Jack+of+All+Trades" alt="Typing SVG" />
 </div>
 
 
